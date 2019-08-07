@@ -1,0 +1,14 @@
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\bin\Release\Database1.mdf
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\bin\Release\Database1_log.ldf
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\bin\Release\WindowsApp1.exe.config
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\bin\Release\WindowsApp1.exe
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\bin\Release\WindowsApp1.pdb
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\bin\Release\WindowsApp1.xml
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\obj\Release\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\obj\Release\WindowsApp1.Form1.resources
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\obj\Release\WindowsApp1.exe
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\obj\Release\WindowsApp1.xml
+C:\Users\host\Desktop\myStudentDatabse\studentDatabase-\WindowsApp1\obj\Release\WindowsApp1.pdb
